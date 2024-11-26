@@ -1,0 +1,7 @@
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.DS_Store  # For macOS
+*.log
